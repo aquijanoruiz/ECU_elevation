@@ -1,0 +1,224 @@
+"","GID_2","GID_0","COUNTRY","GID_1","NAME_1","NL_NAME_1","NAME_2","VARNAME_2","NL_NAME_2","TYPE_2","ENGTYPE_2","CC_2","HASC_2","elevation"
+"1","ECU.1.1_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Camilo Ponce Enriquez","NA","NA","Canton","Canton","0115","NA",815.782716384743
+"2","ECU.1.2_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Chordeleg","NA","NA","Canton","Canton","0111","EC.AZ.CH",2744.14756549763
+"3","ECU.1.3_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Cuenca","NA","NA","Canton","Canton","0101","EC.AZ.CU",2879.86570557571
+"4","ECU.1.4_1","ECU","Ecuador","ECU.1_1","Azuay","NA","El Pan","NA","NA","Canton","Canton","0112","EC.AZ.EP",2757.04850069016
+"5","ECU.1.5_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Girón","NA","NA","Canton","Canton","0102","EC.AZ.GR",2697.38392795965
+"6","ECU.1.6_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Guachapala","NA","NA","Canton","Canton","0114","EC.LJ.GO",2591.53328192991
+"7","ECU.1.7_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Gualaceo","NA","NA","Canton","Canton","0103","EC.AZ.GL",2797.45403417273
+"8","ECU.1.8_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Nabón","NA","NA","Canton","Canton","0104","EC.AZ.NA",2714.53404887298
+"9","ECU.1.9_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Oña","NA","NA","Canton","Canton","0110","EC.AZ.ON",2717.8176425056
+"10","ECU.1.10_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Paute","NA","NA","Canton","Canton","0105","EC.AZ.PA",2752.86301618382
+"11","ECU.1.11_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Pucará","NA","NA","Canton","Canton","0106","EC.AZ.PU",2282.35604499806
+"12","ECU.1.12_1","ECU","Ecuador","ECU.1_1","Azuay","NA","San Fernando","NA","NA","Canton","Canton","0107","EC.AZ.SF",3019.08211502544
+"13","ECU.1.13_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Santa Isabel","NA","NA","Canton","Canton","0108","EC.AZ.SI",2232.25179108297
+"14","ECU.1.14_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Sevilla de Oro","NA","NA","Canton","Canton","0113","EC.AZ.SO",2935.46169283115
+"15","ECU.1.15_1","ECU","Ecuador","ECU.1_1","Azuay","NA","Sigsig","NA","NA","Canton","Canton","0109","EC.AZ.SG",2891.95813235408
+"16","ECU.2.1_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","Caluma","NA","NA","Canton","Canton","0206","EC.BO.CA",852.393325206116
+"17","ECU.2.2_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","Chillanes","NA","NA","Canton","Canton","0202","EC.BO.CN",1147.93017725418
+"18","ECU.2.3_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","Chimbo","NA","NA","Canton","Canton","0203","EC.BO.CB",1376.68860927125
+"19","ECU.2.4_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","Echeandía","NA","NA","Canton","Canton","0204","EC.BO.EC",865.210776518847
+"20","ECU.2.5_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","Guaranda","NA","NA","Canton","Canton","0201","EC.BO.GU",2691.53331787316
+"21","ECU.2.6_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","Las Naves","NA","NA","Canton","Canton","0207","EC.BO.LN",738.991001312937
+"22","ECU.2.7_1","ECU","Ecuador","ECU.2_1","Bolivar","NA","San Miguel","NA","NA","Canton","Canton","0205","EC.BO.SM",1629.395425195
+"23","ECU.3.1_1","ECU","Ecuador","ECU.3_1","Cañar","NA","Azogues","NA","NA","Canton","Canton","0301","EC.CN.AZ",3060.22767716917
+"24","ECU.3.2_1","ECU","Ecuador","ECU.3_1","Cañar","NA","Biblián","NA","NA","Canton","Canton","0302","EC.CN.BI",3246.02835780201
+"25","ECU.3.3_1","ECU","Ecuador","ECU.3_1","Cañar","NA","Cañar","NA","NA","Canton","Canton","0303","EC.CN.CA",2457.18201204921
+"26","ECU.3.4_1","ECU","Ecuador","ECU.3_1","Cañar","NA","Déleg","NA","NA","Canton","Canton","0306","EC.CN.DE",2857.56321008529
+"27","ECU.3.5_1","ECU","Ecuador","ECU.3_1","Cañar","NA","El Tambo","NA","NA","Canton","Canton","0305","EC.CN.ET",3376.20993112159
+"28","ECU.3.6_1","ECU","Ecuador","ECU.3_1","Cañar","NA","La Troncal","NA","NA","Canton","Canton","0304","EC.CN.LT",353.919410964686
+"29","ECU.3.7_1","ECU","Ecuador","ECU.3_1","Cañar","NA","Suscal","NA","NA","Canton","Canton","0307","EC.CN.SU",2524.27037132899
+"30","ECU.4.1_1","ECU","Ecuador","ECU.4_1","Carchi","NA","Bolívar","NA","NA","Canton","Canton","0402","EC.CR.BO",2596.6194017962
+"31","ECU.4.2_1","ECU","Ecuador","ECU.4_1","Carchi","NA","Espejo","NA","NA","Canton","Canton","0403","EC.CR.ES",2993.00958361134
+"32","ECU.4.3_1","ECU","Ecuador","ECU.4_1","Carchi","NA","Mira","NA","NA","Canton","Canton","0404","EC.CR.MI",1806.76711181496
+"33","ECU.4.4_1","ECU","Ecuador","ECU.4_1","Carchi","NA","Montúfar","NA","NA","Canton","Canton","0405","EC.CR.MO",3150.15659040984
+"34","ECU.4.5_1","ECU","Ecuador","ECU.4_1","Carchi","NA","San Pedro de Huaca","NA","NA","Canton","Canton","0406","EC.CR.SP",3313.74110839254
+"35","ECU.4.6_1","ECU","Ecuador","ECU.4_1","Carchi","NA","Tulcán","NA","NA","Canton","Canton","0401","EC.CR.TU",1874.95787017486
+"36","ECU.5.1_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Alausí","NA","NA","Canton","Canton","0602","EC.CB.AL",3276.86351964832
+"37","ECU.5.2_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Chambo","NA","NA","Canton","Canton","0604","EC.CB.CB",3598.65071173105
+"38","ECU.5.3_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Chunchi","NA","NA","Canton","Canton","0605","EC.CB.CN",3104.99169229479
+"39","ECU.5.4_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Colta","NA","NA","Canton","Canton","0603","EC.CB.CT",3440.13904254123
+"40","ECU.5.5_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Cumanda","NA","NA","Canton","Canton","0610","CumandÃƒÆ’",1147.64102374755
+"41","ECU.5.6_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Guamote","NA","NA","Canton","Canton","0606","EC.CB.GM",3617.97921806115
+"42","ECU.5.7_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Guano","NA","NA","Canton","Canton","0607","EC.CB.GN",3345.0594116923
+"43","ECU.5.8_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Pallatanga","NA","NA","Canton","Canton","0608","EC.CB.PA",2628.86828081596
+"44","ECU.5.9_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Penipe","NA","NA","Canton","Canton","0609","EC.CB.PE",3442.37585271304
+"45","ECU.5.10_1","ECU","Ecuador","ECU.5_1","Chimborazo","NA","Riobamba","NA","NA","Canton","Canton","0601","EC.CB.RI",3449.77048269956
+"46","ECU.6.1_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","La Maná","NA","NA","Canton","Canton","0502","EC.CT.LM",1118.94742408175
+"47","ECU.6.2_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Latacunga","NA","NA","Canton","Canton","0501","EC.CT.LA",3526.64749120389
+"48","ECU.6.3_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Pangua","NA","NA","Canton","Canton","0503","EC.CT.PA",1411.27744958057
+"49","ECU.6.4_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Pujilí","NA","NA","Canton","Canton","0504","EC.CT.PU",3250.2034351962
+"50","ECU.6.5_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Salcedo","NA","NA","Canton","Canton","0505","EC.CT.SL",3436.05911194476
+"51","ECU.6.7_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Saquisili","NA","NA","Canton","Canton","0506","EC.CT.SQ",2880.09565347678
+"52","ECU.6.6_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Saquisilí","NA","NA","Canton","Canton","0506","EC.CT.SQ",3427.32017871569
+"53","ECU.6.8_1","ECU","Ecuador","ECU.6_1","Cotopaxi","NA","Sigchos","NA","NA","Canton","Canton","0507","EC.CT.SG",2567.54252736497
+"54","ECU.7.1_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Arenillas","NA","NA","Canton","Canton","0702","EC.EO.AR",139.260671670276
+"55","ECU.7.2_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Atahualpa","NA","NA","Canton","Canton","0703","EC.EO.AT",1381.61335133422
+"56","ECU.7.3_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Balsas","NA","NA","Canton","Canton","0704","EC.EO.BA",619.006696915449
+"57","ECU.7.4_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Chilla","NA","NA","Canton","Canton","0705","EC.EO.CH",2142.02705549761
+"58","ECU.7.5_1","ECU","Ecuador","ECU.7_1","El Oro","NA","El Guabo","NA","NA","Canton","Canton","0706","EC.EO.EG",377.783309801204
+"59","ECU.7.6_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Huaquillas","NA","NA","Canton","Canton","0707","EC.EO.HU",19.1717239318548
+"60","ECU.7.7_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Las Lajas","NA","NA","Canton","Canton","0714","EC.EO.LL",534.295027656403
+"61","ECU.7.8_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Machala","NA","NA","Canton","Canton","0701","EC.EO.MC",34.0335740694623
+"62","ECU.7.9_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Marcabelí","NA","NA","Canton","Canton","0708","EC.EO.MR",640.069145298458
+"63","ECU.7.10_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Pasaje","NA","NA","Canton","Canton","0709","EC.EO.PA",502.149866190901
+"64","ECU.7.11_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Piñas","NA","NA","Canton","Canton","0710","EC.EO.PI",695.711499769319
+"65","ECU.7.12_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Portovelo","NA","NA","Canton","Canton","0711","EC.EO.PO",1902.17882528424
+"66","ECU.7.13_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Santa Rosa","NA","NA","Canton","Canton","0712","EC.EO.SR",161.919505709079
+"67","ECU.7.14_1","ECU","Ecuador","ECU.7_1","El Oro","NA","Zaruma","NA","NA","Canton","Canton","0713","EC.EO.ZA",2200.54453793464
+"68","ECU.8.1_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","Atacames","NA","NA","Canton","Canton","0806","EC.ES.AT",168.967432337483
+"69","ECU.8.2_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","Eloy Alfaro","NA","NA","Canton","Canton","0802","EC.ES.EA",344.658446851789
+"70","ECU.8.3_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","Esmeraldas","NA","NA","Canton","Canton","0801","EC.ES.ES",166.227356494006
+"71","ECU.8.4_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","Muisne","NA","NA","Canton","Canton","0803","EC.ES.MU",229.619992039749
+"72","ECU.8.5_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","Quinindé","NA","NA","Canton","Canton","0804","EC.ES.QU",267.16837868685
+"73","ECU.8.6_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","Río Verde","NA","NA","Canton","Canton","0807","EC.ES.RV",172.938869806221
+"74","ECU.8.7_1","ECU","Ecuador","ECU.8_1","Esmeraldas","NA","San Lorenzo","NA","NA","Canton","Canton","0805","EC.ES.SL",418.633611512299
+"75","ECU.9.1_1","ECU","Ecuador","ECU.9_1","Galápagos","NA","Isabela","NA","NA","Canton","Canton","2002","EC.GA.IS",327.268631866145
+"76","ECU.9.2_1","ECU","Ecuador","ECU.9_1","Galápagos","NA","San Cristóbal","NA","NA","Canton","Canton","2001","EC.GA.SC",126.634757802886
+"77","ECU.9.3_1","ECU","Ecuador","ECU.9_1","Galápagos","NA","Santa Cruz","NA","NA","Canton","Canton","2003","EC.GA.SZ",248.793797531764
+"78","ECU.10.1_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Alfredo Baquerizo Moreno","NA","NA","Canton","Canton","0902","EC.GU.AB",49.5924409914797
+"79","ECU.10.2_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Balao","NA","NA","Canton","Canton","0903","EC.GU.BO",77.2145644038591
+"80","ECU.10.3_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Balzar","NA","NA","Canton","Canton","0904","EC.GU.BZ",74.591019121894
+"81","ECU.10.4_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Colimes","NA","NA","Canton","Canton","0905","EC.GU.CO",92.4736244656397
+"82","ECU.10.5_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Coronel Marcelino Maridueña","NA","NA","Canton","Canton","0923","EC.GU.CM",240.559216877958
+"83","ECU.10.6_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Daule","NA","NA","Canton","Canton","0906","EC.GU.DA",28.3587055897348
+"84","ECU.10.7_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Durán","NA","NA","Canton","Canton","0907","EC.GY.DU",37.8745791624526
+"85","ECU.10.8_1","ECU","Ecuador","ECU.10_1","Guayas","NA","El Empalme","NA","NA","Canton","Canton","0908","EC.GU.EE",93.0877801723257
+"86","ECU.10.9_1","ECU","Ecuador","ECU.10_1","Guayas","NA","El Triunfo","NA","NA","Canton","Canton","0909","NA",337.715578739454
+"87","ECU.10.10_1","ECU","Ecuador","ECU.10_1","Guayas","NA","General Antonio Elizalde","NA","NA","Canton","Canton","0927","EC.GY.GE",405.802601392463
+"88","ECU.10.11_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Guayaquil","NA","NA","Canton","Canton","0901","EC.GU.GU",52.7335273752139
+"89","ECU.10.12_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Isidro Ayora","NA","NA","Canton","Canton","0928","EC.GY.IA",153.488893192728
+"90","ECU.10.13_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Lomas de Sargentillo","NA","NA","Canton","Canton","0924","EC.GY.LS",58.0846000958239
+"91","ECU.10.14_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Milagro","NA","NA","Canton","Canton","0910","EC.GU.MI",93.7033792213968
+"92","ECU.10.15_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Naranjal","NA","NA","Canton","Canton","0911","EC.GU.NL",205.937817907988
+"93","ECU.10.16_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Naranjito","NA","NA","Canton","Canton","0912","EC.GU.NT",217.623563050922
+"94","ECU.10.17_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Nobol","NA","NA","Canton","Canton","0925","EC.GU.NB",95.5915030448674
+"95","ECU.10.18_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Palestina","NA","NA","Canton","Canton","0913","EC.GU.PA",39.6250073685002
+"96","ECU.10.19_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Pedro Carbo","NA","NA","Canton","Canton","0914","EC.GU.PC",177.587139510359
+"97","ECU.10.20_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Playas","NA","NA","Canton","Canton","0921","EC.GU.PL",83.5955528250025
+"98","ECU.10.21_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Samborondón","NA","NA","Canton","Canton","0916","EC.GY.SM",16.3049350987547
+"99","ECU.10.22_1","ECU","Ecuador","ECU.10_1","Guayas","NA","San Jacinto de Yaguachi","Yaguachi","NA","Canton","Canton","0920","EC.GY.YA",76.9537161376359
+"100","ECU.10.23_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Santa Lucia","NA","NA","Canton","Canton","0918","EC.GU.SL",56.5077132316992
+"101","ECU.10.24_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Simon Bolivar","NA","NA","Canton","Canton","0922","EC.GU.SB",179.741991286042
+"102","ECU.10.25_1","ECU","Ecuador","ECU.10_1","Guayas","NA","Urbina Jado","Salitre","NA","Canton","Canton","0919","EC.GY.ST",29.0345408473498
+"103","ECU.11.1_1","ECU","Ecuador","ECU.11_1","Imbabura","NA","Antonio Ante","NA","NA","Canton","Canton","1002","EC.IM.AA",2412.41810284663
+"104","ECU.11.2_1","ECU","Ecuador","ECU.11_1","Imbabura","NA","Cotacachi","NA","NA","Canton","Canton","1003","EC.IM.CO",1929.05473548957
+"105","ECU.11.3_1","ECU","Ecuador","ECU.11_1","Imbabura","NA","Ibarra","NA","NA","Canton","Canton","1001","EC.IM.IB",2075.32046363388
+"106","ECU.11.4_1","ECU","Ecuador","ECU.11_1","Imbabura","NA","Otavalo","NA","NA","Canton","Canton","1004","EC.IM.OT",2958.21237573979
+"107","ECU.11.5_1","ECU","Ecuador","ECU.11_1","Imbabura","NA","Pimampiro","NA","NA","Canton","Canton","1005","EC.IM.PI",3412.49111240128
+"108","ECU.11.6_1","ECU","Ecuador","ECU.11_1","Imbabura","NA","San Miguel de Urcuquí","NA","NA","Canton","Canton","1006","EC.IM.UR",2417.62010645421
+"109","ECU.12.1_1","ECU","Ecuador","ECU.12_1","Loja","NA","Calvas","NA","NA","Canton","Canton","1102","EC.LJ.CV",1597.4662403026
+"110","ECU.12.2_1","ECU","Ecuador","ECU.12_1","Loja","NA","Catamayo","NA","NA","Canton","Canton","1103","EC.LJ.CT",1832.97103225845
+"111","ECU.12.3_1","ECU","Ecuador","ECU.12_1","Loja","NA","Celica","NA","NA","Canton","Canton","1104","EC.LJ.CE",1025.22228341018
+"112","ECU.12.4_1","ECU","Ecuador","ECU.12_1","Loja","NA","Chaguarpamba","NA","NA","Canton","Canton","1105","EC.LJ.CP",1051.60629361343
+"113","ECU.12.5_1","ECU","Ecuador","ECU.12_1","Loja","NA","Espíndola","NA","NA","Canton","Canton","1106","EC.LJ.ES",2334.87864748251
+"114","ECU.12.6_1","ECU","Ecuador","ECU.12_1","Loja","NA","Gonzanamá","NA","NA","Canton","Canton","1107","EC.LJ.GO",1760.66284286557
+"115","ECU.12.7_1","ECU","Ecuador","ECU.12_1","Loja","NA","Loja","NA","NA","Canton","Canton","1101","EC.LJ.LO",2429.70581368258
+"116","ECU.12.8_1","ECU","Ecuador","ECU.12_1","Loja","NA","Macará","NA","NA","Canton","Canton","1108","EC.LJ.MA",955.034970714996
+"117","ECU.12.9_1","ECU","Ecuador","ECU.12_1","Loja","NA","Olmedo","NA","NA","Canton","Canton","1116","EC.LJ.OL",1530.763025573
+"118","ECU.12.10_1","ECU","Ecuador","ECU.12_1","Loja","NA","Paltas","NA","NA","Canton","Canton","1109","EC.LJ.PA",1413.62963591419
+"119","ECU.12.11_1","ECU","Ecuador","ECU.12_1","Loja","NA","Pindal","NA","NA","Canton","Canton","1114","EC.LJ.PI",848.399173730175
+"120","ECU.12.12_1","ECU","Ecuador","ECU.12_1","Loja","NA","Puyango","NA","NA","Canton","Canton","1110","EC.LJ.PU",895.080226837466
+"121","ECU.12.13_1","ECU","Ecuador","ECU.12_1","Loja","NA","Quilanga","NA","NA","Canton","Canton","1115","EC.LJ.QU",2101.8243283386
+"122","ECU.12.14_1","ECU","Ecuador","ECU.12_1","Loja","NA","Saraguro","NA","NA","Canton","Canton","1111","EC.LJ.SA",2500.78167696548
+"123","ECU.12.15_1","ECU","Ecuador","ECU.12_1","Loja","NA","Sozoranga","NA","NA","Canton","Canton","1112","EC.LJ.SO",1432.38470955707
+"124","ECU.12.16_1","ECU","Ecuador","ECU.12_1","Loja","NA","Zapotillo","NA","NA","Canton","Canton","1113","EC.LJ.ZA",394.151960939195
+"125","ECU.13.1_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Baba","NA","NA","Canton","Canton","1202","EC.LR.BB",42.7930598917016
+"126","ECU.13.2_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Babahoyo","NA","NA","Canton","Canton","1201","EC.LR.BH",156.247744927607
+"127","ECU.13.3_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Buena Fé","NA","NA","Canton","Canton","1210","EC.LR.BF",121.422568650475
+"128","ECU.13.4_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Mocache","NA","NA","Canton","Canton","1212","EC.LR.MC",98.5480214517364
+"129","ECU.13.5_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Montalvo","NA","NA","Canton","Canton","1203","EC.LR.MN",152.910784896615
+"130","ECU.13.6_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Palenque","NA","NA","Canton","Canton","1209","EC.LR.PA",64.6387082719236
+"131","ECU.13.7_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Pueblo Viejo","NA","NA","Canton","Canton","1204","EC.LR.PV",192.002564875354
+"132","ECU.13.8_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Quevedo","NA","NA","Canton","Canton","1205","EC.LR.QU",123.999402444682
+"133","ECU.13.9_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Quinsaloma","NA","NA","Canton","Canton","1213","NA",408.969420633473
+"134","ECU.13.10_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Urdaneta","NA","NA","Canton","Canton","1206","EC.LR.UR",267.054638866325
+"135","ECU.13.11_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Valencia","NA","NA","Canton","Canton","1211","EC.LR.VA",349.736263736264
+"136","ECU.13.12_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Ventanas","NA","NA","Canton","Canton","1207","EC.LR.VE",445.696360438541
+"137","ECU.13.13_1","ECU","Ecuador","ECU.13_1","Los Rios","NA","Vinces","NA","NA","Canton","Canton","1208","EC.LR.VI",53.4485782163859
+"138","ECU.14.1_1","ECU","Ecuador","ECU.14_1","Manabi","NA","24 De Mayo","NA","NA","Canton","Canton","1316","EC.MN.VM",223.982312488732
+"139","ECU.14.2_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Bolívar","NA","NA","Canton","Canton","1302","EC.CR.BO",181.9016098105
+"140","ECU.14.3_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Chone","NA","NA","Canton","Canton","1303","EC.MN.CH",227.077167390157
+"141","ECU.14.4_1","ECU","Ecuador","ECU.14_1","Manabi","NA","El Carmen","NA","NA","Canton","Canton","1304","EC.MN.EC",206.972683091404
+"142","ECU.14.5_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Flavio Alfaro","NA","NA","Canton","Canton","1305","EC.MN.FA",263.364739111103
+"143","ECU.14.6_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Jama","NA","NA","Canton","Canton","1320","EC.MN.JM",158.71205740412
+"144","ECU.14.7_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Jaramijó","NA","NA","Canton","Canton","1321","EC.MN.JR",80.1698110286805
+"145","ECU.14.8_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Jipijapa","NA","NA","Canton","Canton","1306","EC.MN.JJ",377.048139357445
+"146","ECU.14.9_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Junín","NA","NA","Canton","Canton","1307","EC.MN.JN",214.14639350661
+"147","ECU.14.10_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Manta","NA","NA","Canton","Canton","1308","EC.MN.MA",162.758727073365
+"148","ECU.14.11_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Montecristi","NA","NA","Canton","Canton","1309","EC.MN.MO",170.099667465939
+"149","ECU.14.12_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Olmedo","NA","NA","Canton","Canton","1318","EC.MN.OL",163.653630601093
+"150","ECU.14.13_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Paján","NA","NA","Canton","Canton","1310","EC.MN.PA",273.96053544989
+"151","ECU.14.14_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Pedernales","NA","NA","Canton","Canton","1317","EC.MN.PE",258.54117899403
+"152","ECU.14.15_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Pichincha","NA","NA","Canton","Canton","1311","EC.MN.PI",141.428035340701
+"153","ECU.14.16_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Portoviejo","NA","NA","Canton","Canton","1301","EC.MN.PO",191.560802908776
+"154","ECU.14.17_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Puerto López","NA","NA","Canton","Canton","1319","EC.MN.PL",253.712028707521
+"155","ECU.14.18_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Rocafuerte","NA","NA","Canton","Canton","1312","EC.MN.RO",130.928718931914
+"156","ECU.14.19_1","ECU","Ecuador","ECU.14_1","Manabi","NA","San Vicente","NA","NA","Canton","Canton","1322","EC.MN.SV",163.864608568409
+"157","ECU.14.20_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Santa Ana","NA","NA","Canton","Canton","1313","EC.MN.SA",194.448526080783
+"158","ECU.14.21_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Sucre","NA","NA","Canton","Canton","1314","EC.MN.SU",217.562678933316
+"159","ECU.14.22_1","ECU","Ecuador","ECU.14_1","Manabi","NA","Tosagua","NA","NA","Canton","Canton","1315","EC.MN.TO",96.3502921054823
+"160","ECU.15.1_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Gualaquiza","NA","NA","Canton","Canton","1402","EC.MS.GU",1875.82983294102
+"161","ECU.15.2_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Huamboya","NA","NA","Canton","Canton","1407","EC.MS.HB",1084.4396484236
+"162","ECU.15.3_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Limón Indanza","NA","NA","Canton","Canton","1403","EC.MS.LI",1246.40546630221
+"163","ECU.15.4_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Logroño","NA","NA","Canton","Canton","1410","EC.MS.LO",920.50640806014
+"164","ECU.15.5_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Morona","NA","NA","Canton","Canton","1401","EC.MS.MO",1559.595283187
+"165","ECU.15.6_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Pablo Sexto","NA","NA","Canton","Canton","1411","EC.MS.PS",2584.3477877255
+"166","ECU.15.7_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Palora","NA","NA","Canton","Canton","1404","EC.MS.PA",2101.55798335845
+"167","ECU.15.8_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","San Juan Bosco","NA","NA","Canton","Canton","1408","EC.MS.SJ",1233.925041298
+"168","ECU.15.9_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Santiago","NA","NA","Canton","Canton","1405","EC.MS.SA",1737.98779571264
+"169","ECU.15.10_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Sucúa","NA","NA","Canton","Canton","1406","EC.MS.SU",1882.55171973572
+"170","ECU.15.11_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Taisha","NA","NA","Canton","Canton","1409","EC.MS.TA",393.000304827744
+"171","ECU.15.12_1","ECU","Ecuador","ECU.15_1","Morona Santiago","NA","Tiwintza","NA","NA","Canton","Canton","1412","NA",508.775601443656
+"172","ECU.16.1_1","ECU","Ecuador","ECU.16_1","Napo","NA","Archidona","NA","NA","Canton","Canton","1503","EC.NA.AR",2265.69723353383
+"173","ECU.16.2_1","ECU","Ecuador","ECU.16_1","Napo","NA","Carlos Julio Arosemena Tola","NA","NA","Canton","Canton","1509","EC.NA.CA",976.626391725072
+"174","ECU.16.3_1","ECU","Ecuador","ECU.16_1","Napo","NA","El Chaco","NA","NA","Canton","Canton","1504","EC.NA.EL",1970.55247958713
+"175","ECU.16.4_1","ECU","Ecuador","ECU.16_1","Napo","NA","Quijos","NA","NA","Canton","Canton","1507","EC.NA.QU",3031.74485282312
+"176","ECU.16.5_1","ECU","Ecuador","ECU.16_1","Napo","NA","Tena","NA","NA","Canton","Canton","1501","EC.NA.TE",1390.00655773644
+"177","ECU.17.1_1","ECU","Ecuador","ECU.17_1","Orellana","NA","Aguarico","NA","NA","Canton","Canton","2202","EC.OR.AG",218.557452925638
+"178","ECU.17.2_1","ECU","Ecuador","ECU.17_1","Orellana","NA","La Joya de los Sachas","NA","NA","Canton","Canton","2203","EC.OR.JS",307.276908829765
+"179","ECU.17.3_1","ECU","Ecuador","ECU.17_1","Orellana","NA","Loreto","NA","NA","Canton","Canton","2204","EC.OR.LO",586.093764381544
+"180","ECU.17.4_1","ECU","Ecuador","ECU.17_1","Orellana","NA","Orellana","Francisco de Orellana","NA","Canton","Canton","2201","EC.OR.FO",292.692922620881
+"181","ECU.18.1_1","ECU","Ecuador","ECU.18_1","Pastaza","NA","Arajuno","NA","NA","Canton","Canton","1604","EC.PA.AR",293.187186714446
+"182","ECU.18.2_1","ECU","Ecuador","ECU.18_1","Pastaza","NA","Mejía","NA","NA","Canton","Canton","1602","EC.PA.ME",1850.70189808485
+"183","ECU.18.3_1","ECU","Ecuador","ECU.18_1","Pastaza","NA","Mera","NA","NA","Canton","Canton","1602","EC.PA.ME",2057.69554549671
+"184","ECU.18.4_1","ECU","Ecuador","ECU.18_1","Pastaza","NA","Pastaza","NA","NA","Canton","Canton","1601","EC.PA.PA",340.327237863462
+"185","ECU.18.5_1","ECU","Ecuador","ECU.18_1","Pastaza","NA","Santa Clara","NA","NA","Canton","Canton","1603","EC.PA.SC",834.521345219675
+"186","ECU.19.1_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Cayambe","NA","NA","Canton","Canton","1702","EC.PI.CA",3724.01559611134
+"187","ECU.19.2_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Mejía","NA","NA","Canton","Canton","1703","EC.PC.ME",3038.65635495846
+"188","ECU.19.3_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Pedro Moncayo","NA","NA","Canton","Canton","1704","EC.PI.PM",2872.76538290526
+"189","ECU.19.4_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Pedro Vicente Maldonado","NA","NA","Canton","Canton","1708","EC.PI.PV",639.361953907683
+"190","ECU.19.5_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Puerto Quito","NA","NA","Canton","Canton","1709","EC.PC.PQ",291.970086212658
+"191","ECU.19.6_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Quito","NA","NA","Canton","Distrito Metropolitano","1701","EC.PC.QU",2662.77540214641
+"192","ECU.19.7_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","Rumiñahui","NA","NA","Canton","Canton","1705","EC.PI.RU",2930.64595544664
+"193","ECU.19.8_1","ECU","Ecuador","ECU.19_1","Pichincha","NA","San Miguel de los Bancos","NA","NA","Canton","Canton","1707","EC.PC.SM",1275.50657745933
+"194","ECU.20.1_1","ECU","Ecuador","ECU.20_1","Santa Elena","NA","La Libertad","NA","NA","Canton","Canton","2402","EC.GU.LL",4.52018052178371
+"195","ECU.20.2_1","ECU","Ecuador","ECU.20_1","Santa Elena","NA","Salinas","NA","NA","Canton","Canton","2403","EC.GU.SS",3.43402749473745
+"196","ECU.20.3_1","ECU","Ecuador","ECU.20_1","Santa Elena","NA","Santa Elena","NA","NA","Canton","Canton","2401","EC.GU.SE",149.308707160549
+"197","ECU.21.1_1","ECU","Ecuador","ECU.21_1","Santo Domingo de los Tsachilas","NA","La Concordia","NA","NA","Canton","Canton","2302","NA",241.288297405408
+"198","ECU.21.2_1","ECU","Ecuador","ECU.21_1","Santo Domingo de los Tsachilas","NA","Santo Domingo","Santo Domingo de los Tsáchilas","NA","Canton","Canton","2301","EC.SD.SD",718.880516091295
+"199","ECU.22.1_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Cascales","NA","NA","Canton","Canton","2106","EC.SU.CA",591.656528547722
+"200","ECU.22.2_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Cuyabeno","NA","NA","Canton","Canton","2107","EC.SU.CU",239.767859234919
+"201","ECU.22.3_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Gonzalo Pizarro","NA","NA","Canton","Canton","2102","EC.SU.GP",1502.62548212521
+"202","ECU.22.4_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Lago Agrio","NA","NA","Canton","Canton","2101","EC.SU.LA",378.493207916798
+"203","ECU.22.5_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Putumayo","NA","NA","Canton","Canton","2103","EC.SU.PU",258.47343373247
+"204","ECU.22.6_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Shushufindi","NA","NA","Canton","Canton","2104","EC.SU.SH",263.685196888197
+"205","ECU.22.7_1","ECU","Ecuador","ECU.22_1","Sucumbios","NA","Sucumbíos","NA","NA","Canton","Canton","2105","EC.SU.SU",2482.52705409521
+"206","ECU.23.1_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Ambato","NA","NA","Canton","Canton","1801","EC.TU.AM",3540.5288897001
+"207","ECU.23.2_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Baños de Agua Santa","NA","NA","Canton","Canton","1802","EC.TU.BA",3276.43140155345
+"208","ECU.23.3_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Cevallos","NA","NA","Canton","Canton","1803","EC.TU.CE",2878.59960451295
+"209","ECU.23.4_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Mocha","NA","NA","Canton","Canton","1804","EC.TU.MO",3568.13714238896
+"210","ECU.23.5_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Patate","NA","NA","Canton","Canton","1805","EC.TU.PA",3248.26987958547
+"211","ECU.23.6_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Quero","NA","NA","Canton","Canton","1806","EC.TU.QU",3512.7646711971
+"212","ECU.23.7_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","San Pedro de Pelileo","Pelileo","NA","Canton","Canton","1807","EC.TU.PE",2752.31118745802
+"213","ECU.23.8_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Santiago de Pillaro","NA","NA","Canton","Canton","1808","EC.TU.PI",3542.11672398892
+"214","ECU.23.9_1","ECU","Ecuador","ECU.23_1","Tungurahua","NA","Tisaleo","NA","NA","Canton","Canton","1809","EC.TU.TI",3397.79990970852
+"215","ECU.24.1_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Centinela del Cóndor","NA","NA","Canton","Canton","1907","EC.ZC.CC",1210.94820324866
+"216","ECU.24.2_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Chinchipe","NA","NA","Canton","Canton","1902","EC.ZC.CH",1843.60224235489
+"217","ECU.24.3_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","El Pangui","NA","NA","Canton","Canton","1906","EC.ZC.EP",1111.91939336024
+"218","ECU.24.4_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Nangaritza","NA","NA","Canton","Canton","1903","EC.ZC.NA",1558.95688399216
+"219","ECU.24.5_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Palanda","NA","NA","Canton","Canton","1908","EC.ZC.PA",2156.3015009089
+"220","ECU.24.6_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Paquisha","NA","NA","Canton","Canton","1909","NA",1539.44539754402
+"221","ECU.24.7_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Yacuambi","NA","NA","Canton","Canton","1904","EC.ZC.YC",2173.69340074338
+"222","ECU.24.8_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Yantzaza","NA","NA","Canton","Canton","1905","EC.ZC.YN",1318.04647792265
+"223","ECU.24.9_1","ECU","Ecuador","ECU.24_1","Zamora Chinchipe","NA","Zamora","NA","NA","Canton","Canton","1901","EC.ZC.ZA",1977.38909522504
