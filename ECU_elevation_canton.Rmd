@@ -1,0 +1,85 @@
+---
+title: "Geospatial analysis in R with terra: Calculating the average elevation by canton in Ecuador"
+author: "Alonso Quijano"
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Ecuador shapefile
+
+```{r, }
+# Source: https://gadm.org/
+# Load the sf package
+if (!require("sf")) install.packages("sf")
+
+# Unzip and load the Ecuador canton shapefiles
+unzip("./data/GADM_ECU_shapefile.zip", exdir = "./data")
+ecuador_shp <- st_read("./data/gadm41_ECU_2.shp")
+
+# Simplify the spatial geometries to improve computational efficiency
+ecuador_shp <- st_simplify(ecuador_shp, preserveTopology = TRUE, dTolerance = 100)
+
+# The sf CRS is WGS 84
+st_crs(ecuador_shp)
+```
+
+# GTOPO30 elevation data
+
+```{r, }
+# Source: https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-global-30-arc-second-elevation-gtopo30?qt-science_center_objects=0#qt-science_center_objects
+# Load the terra package
+if (!require(terra)) install.packages("terra", repos='https://rspatial.r-universe.dev')
+
+# Unzip and load the GTOPO30 elevation data
+unzip("./data/USGS_elevation.zip", exdir = "./data")
+elevation <- rast("./data/gt30w100n40.tif")
+names(elevation) <- "elevation"
+
+# Plot the SpatRaster
+plot(elevation)
+
+# The SpatRaster CRS is WGS 84
+print(elevation)
+```
+
+# Masking and cropping
+
+```{r, }
+# Because the SpatRaster CRS is WGS 84, the same as the sf object, projection is not needed
+# Masking the SpatRaster using the shapefile
+elevation_ecu <- crop(elevation, ecuador_shp, mask = TRUE); rm(elevation)
+
+# Plot the Ecuador elevation data
+plot(elevation_ecu)
+plot(ecuador_shp$geometry, add = TRUE)
+```
+
+# Extracting the elevation for each canton
+
+```{r, }
+# Overall mean elevation
+global(elevation_ecu, fun = 'mean', na.rm = TRUE)
+
+# Extract the weighted mean elevation for each canton
+elevation_ecu_canton <- extract(elevation_ecu, ecuador_shp, fun = mean, na.rm = TRUE, weights = TRUE, bind = TRUE)
+
+# Transform the SpatVector to data frame
+elevation_ecu_canton <- as.data.frame(elevation_ecu_canton)
+head(elevation_ecu_canton)
+
+# Top 10 cantons with the highest elevation
+# Load the tidyverse package
+if (!require("tidyverse")) install.packages("tidyverse")
+elevation_ecu_canton %>% arrange(desc(elevation)) %>% head(10) %>%
+  ggplot(aes(x = reorder(NAME_2, elevation), y = elevation)) + 
+  geom_bar(stat = "identity") + coord_flip() + 
+  labs(title = "Top 10 Cantons with the Highest Elevation", x = "")
+
+# Save data frame as xlsx and csv
+if (!require("xlsx")) install.packages("xlsx")
+write.xlsx(elevation_ecu_canton, "./data/elevation_ecu_canton.xlsx")
+write.csv(elevation_ecu_canton, "./data/elevation_ecu_canton.csv")
+```
